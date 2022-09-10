@@ -1,0 +1,15 @@
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\bin\Debug\net6.0\Dilden.exe
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\bin\Debug\net6.0\Dilden.deps.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\bin\Debug\net6.0\Dilden.runtimeconfig.json
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\bin\Debug\net6.0\Dilden.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\bin\Debug\net6.0\Dilden.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.csproj.AssemblyReference.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.AssemblyInfoInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.AssemblyInfo.cs
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.csproj.CoreCompileInputs.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\refint\Dilden.dll
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.pdb
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\Dilden.genruntimeconfig.cache
+C:\Users\Gigse\OneDrive\Рабочий стол\Новая папка (5)\Домашняя работа ответы по C#\Урок 1. Знакомство с языком программирования С#\Dilden\obj\Debug\net6.0\ref\Dilden.dll
